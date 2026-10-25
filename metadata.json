@@ -1,0 +1,8 @@
+{
+  "name": "LifeLink — Blood Donation Camp",
+  "description": "Secure blood donation coordination platform connecting verified donors with urgent hospital requests, featuring real-time masked coordination chat, location-based matching, and awareness media campaigns.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
